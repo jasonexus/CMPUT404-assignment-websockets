@@ -86,7 +86,7 @@ https://github.com/uofa-cmput404/cmput404-slides/blob/master/examples/WebSockets
 
 https://github.com/uofa-cmput404/cmput404-slides/tree/master/examples/ObserverExampleAJAX
 
-- My Assignment 4 Repo
+- My Assignment 4 Repo(Reused parts of this for Assignment 5)
 
 https://github.com/jasonexus/CMPUT404-assignment-ajax
 
