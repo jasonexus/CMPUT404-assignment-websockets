@@ -59,6 +59,7 @@ Contributors
 * Mark Galloway
 * Abram Hindle
 * Cole Mackenzie
+* Jason Branch-Allen
 
 
 Collaboration
