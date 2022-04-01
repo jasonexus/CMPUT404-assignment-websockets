@@ -59,3 +59,34 @@ Contributors
 * Mark Galloway
 * Abram Hindle
 * Cole Mackenzie
+
+
+Collaboration
+=============
+
+I did not collaborate with any other students for this assignment.
+
+
+Sources and Citations
+=====================
+
+https://www.gevent.org/api/gevent.html
+
+https://developer.mozilla.org/en-US/docs/Web/API/WebSocket
+
+https://infinitbility.com/how-to-get-key-and-value-from-json-object-in-javascript
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in
+
+- Class Notes and Class Websocket Example
+
+https://uofa-cmput404.github.io/cmput404-slides/09-Websockets.html#/24
+
+https://github.com/uofa-cmput404/cmput404-slides/blob/master/examples/WebSocketsExamples/broadcaster.py
+
+https://github.com/uofa-cmput404/cmput404-slides/tree/master/examples/ObserverExampleAJAX
+
+- My Assignment 4 Repo
+
+https://github.com/jasonexus/CMPUT404-assignment-ajax
+
